@@ -1,0 +1,11 @@
+The steps involved in Heat Treatment Schedule of Bearing Steel include:
+1. Quenching: The steel is heated to a high temperature and then quickly cooled to prevent it from transforming into a different phase.
+2. Tempering: The steel is heated to a lower temperature than the quenching temperature to soften it without changing its structure.
+3. Annealing: The steel is heated to a temperature below the critical point and held there for some time to relieve internal stresses.
+4. Normalizing: The steel is heated to a temperature above the critical point but below the upper critical point and held there for some time to remove any residual stresses.
+5. Hardening: The steel is heated to a higher temperature than the critical point and held there for some time to increase its hardness.
+6. Case hardening: The surface of the steel is hardened by heating it to a high temperature and then immersing it in a solution containing chromium or nickel.
+7. Nitriding: The steel is heated to a temperature between 500°C and 600°C and exposed to ammonia gas to form a case layer of nitrides.
+8. Carburizing: The steel is heated to a temperature between 800°C and 900°C and exposed to carbon monoxide gas to form a case layer of carbides.
+9. Induction hardening: The steel is heated to a temperature between 800°C and 900°C and then subjected to a magnetic field to create a localized area of intense heat that causes the metal to become harder.
+10. Through hardening: The steel is heated to a temperature between 800°C and 900°C and then subjected to a magnetic field to create a localized area of intense heat that causes the metal to become harder.
